@@ -20,4 +20,4 @@ print("area of rectangle:", r.area())
 
 
 shape:shape = rectangle(5, 10)
-print("area of ractangle (using shpae reference ) :", shape.area())
+print("area of ractangle (using shpae referenc ) :", shape.area())
