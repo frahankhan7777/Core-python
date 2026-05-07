@@ -44,20 +44,6 @@ class Account:
             print("The amount is not sufficient as the minimum amount in the account should be 2000")
 
 
-
-    # # how many time you can withdraw money in one day
-    # count = 1
-    # def with_day(self,amount):
-    #     if Account.count > 4:
-    #         print("Your daily withdraw limit is exeed")
-    #     elif amount > self.balance :
-    #         print("Insufficient amount.....")
-    #     else:
-    #         self.balance -= amount
-    #         print("The amount available after withdraw is :", self.balance)
-    #         Account.count +=1
-
-
 acc = Account()
 acc.set_number(6265314244)
 acc.set_accType("Saving")
