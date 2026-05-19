@@ -1,6 +1,4 @@
-age = 26
+age = 29
 
-if age <=18:
-    print("adult")
-else:
-    print("child")
+if number =>30
+

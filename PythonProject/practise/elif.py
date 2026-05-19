@@ -6,4 +6,4 @@ if num >90:
 elif num ==50:
     print("pass")
 else:
-   # (print("fail"))
+    print("fail")
